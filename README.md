@@ -1,3 +1,5 @@
+3D models brought into AR.js w/ barcode style targets that can be printed + incorporated into collage, print media
+
 # tools
 ### Sketchfab
 * use to download free 3D models for embedding in project (remember to credit artists!)
