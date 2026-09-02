@@ -1,0 +1,11 @@
+Model Information:
+* title:	Darnell Wu - pine cone owl
+* source:	https://sketchfab.com/3d-models/darnell-wu-pine-cone-owl-f44ab1949329452791dd7c5af8c4996b
+* author:	Brian Trepanier (https://sketchfab.com/CMBC)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Darnell Wu - pine cone owl" (https://sketchfab.com/3d-models/darnell-wu-pine-cone-owl-f44ab1949329452791dd7c5af8c4996b) by Brian Trepanier (https://sketchfab.com/CMBC) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
